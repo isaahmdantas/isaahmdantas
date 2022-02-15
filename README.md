@@ -55,6 +55,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Isadora Dantas](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadoramdantas/)](https://www.linkedin.com/in/isadoramdantas/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devisaah@gmail.com)](mailto:devisaah@gmail.com)
+[![Linkedin: Isadora Dantas](https://img.shields.io/badge/-devisaah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadoramdantas/)](https://www.linkedin.com/in/isadoramdantas/)
+[![Gmail Badge](https://img.shields.io/badge/-devisaah@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devisaah@gmail.com)](mailto:devisaah@gmail.com)
 [![GitHub Isadora Dantas]( https://img.shields.io/github/followers/devisaah?label=follow&style=social)](https://github.com/devisaah)
