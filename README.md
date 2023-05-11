@@ -4,8 +4,9 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **PÓS EM DESENVOLVIMENTO DE SOFTWARE COM METODOLOGIAS ÁGEIS** na <a href="https://www.unp.br">UNIVERSIDADE POTIGUAR</a>.
+- 🎓 &nbsp; **PÓS EM DESENVOLVIMENTO DE SOFTWARE COM METODOLOGIAS ÁGEIS** na <a href="https://www.unp.br">UNIVERSIDADE POTIGUAR</a>.
 - 💼 &nbsp; Trabalhando como **ANALISTA DE SISTEMAS NIVEL I** na <a href="https://dunnastecnologia.com.br">DUNNAS TECNOLOGIA</a>
+- 💼 &nbsp; Trabalhando como  **PROGRAMADOR NIVEL I** na PREFEITURA DE MOSSORÓ - SECRETARIA DE ADMINISTRAÇÃO
 - 🌱 &nbsp; Aprendendo mais sobre **RUBY ON RAILS E TDD COM RSPEC**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
