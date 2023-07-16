@@ -5,9 +5,9 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; **PÓS EM DESENVOLVIMENTO DE SOFTWARE COM METODOLOGIAS ÁGEIS** na <a href="https://www.unp.br">UNIVERSIDADE POTIGUAR</a>.
-- 💼 &nbsp; Trabalhando como **ANALISTA DE SISTEMAS NIVEL I** na <a href="https://dunnastecnologia.com.br">DUNNAS TECNOLOGIA</a>
-- 💼 &nbsp; Trabalhando como  **PROGRAMADOR NIVEL I** na PREFEITURA DE MOSSORÓ - SECRETARIA DE ADMINISTRAÇÃO
-- 🌱 &nbsp; Aprendendo mais sobre **RUBY ON RAILS E TDD COM RSPEC**.
+- 💼 &nbsp; Trabalhando como **ANALISTA DE SISTEMAS ** no <a href="https://sescrn.com.br">SESC/RN</a>
+- ❤  &nbsp; Apaixonada por tecnologia e Ruby on Rails 
+- 🌱 &nbsp; Aprendendo mais sobre **JAVA, PHP e REACT**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
