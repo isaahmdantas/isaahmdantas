@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; **PÓS EM DESENVOLVIMENTO DE SOFTWARE COM METODOLOGIAS ÁGEIS** na <a href="https://www.unp.br">UNIVERSIDADE POTIGUAR</a>.
-- 💼 &nbsp; Trabalhando como **ANALISTA DE SISTEMAS ** no <a href="https://sescrn.com.br">SESC/RN</a>
+- 💼 &nbsp; Trabalhando como **ANALISTA DE SISTEMAS** no <a href="https://sescrn.com.br">SESC/RN</a>
 - ❤  &nbsp; Apaixonada por tecnologia e Ruby on Rails 
 - 🌱 &nbsp; Aprendendo mais sobre **JAVA, PHP e REACT**.
 
