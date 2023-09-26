@@ -47,6 +47,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devisaah&theme=dracula&show_icons=true" />
 </a>
 
+<a href="https://app.daily.dev/isadoradantas51"><img src="https://api.daily.dev/devcards/dbda7aedcb8f4386bebbdd3275d82b59.png?r=tb8" width="400" alt="Isadora Dantas's Dev Card"/></a>
+
+
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
@@ -54,3 +57,4 @@
 [![Linkedin: Isadora Dantas](https://img.shields.io/badge/-devisaah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadoramdantas/)](https://www.linkedin.com/in/isadoramdantas/)
 [![Gmail Badge](https://img.shields.io/badge/-devisaah@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devisaah@gmail.com)](mailto:devisaah@gmail.com)
 [![GitHub Isadora Dantas]( https://img.shields.io/github/followers/devisaah?label=follow&style=social)](https://github.com/devisaah)
+
