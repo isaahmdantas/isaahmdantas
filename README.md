@@ -84,8 +84,8 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/isadoramdantas/
 ##
 
 #### Estatísticas:
-<div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaahmdantas&layout=compact&langs_count=7&theme=radical"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=isaahmdantas&show_icons=true&include_all_commits=true&theme=radical"/>
-<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=isaahmdantas&amp;theme=radical">
-</div>
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaahmdantas&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaahmdantas&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaahmdantas&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaahmdantas&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=isaahmdantas&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
