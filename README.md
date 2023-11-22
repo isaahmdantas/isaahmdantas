@@ -80,11 +80,6 @@ Linguagens & Tecnologias: `Ruby on Rails`, `HTML`, `CSS`, `Javascript`\
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/isadoramdantas/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
-##
-
-#### Freelancer:
-<a href="https://app.bounties4.com/@/isaahmdantas" target="_blank"><img title="bounties4.com/@/isaahmdantas" alt="bounties4.com/@/isaahmdantas" src="https://storage.googleapis.com/profile_avatar/production/655e3f0020dcc5d710981163/1700675722472_badge.png" width="400" height="400" /></a>
-
 
 ##
 
