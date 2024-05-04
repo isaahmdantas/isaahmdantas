@@ -55,7 +55,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Sesc" src="https://pbs.twimg.com/profile_images/1600158447382790152/DRZmEsGO_400x400.jpg"/>](https://sescrn.com.br/)
+[<img align="left" height="94px" width="94px" alt="Sesc" src="https://media.licdn.com/dms/image/C4D0BAQGKHvUfHrhZUA/company-logo_200_200/0/1678470297009/sescrn_logo?e=2147483647&v=beta&t=oVM8O2OGviMm70TYJKQnogrIUW7BcTIWZZTIqYkrCJM"/>](https://sescrn.com.br/)
 
 
 **Analista de Sistemas** \
