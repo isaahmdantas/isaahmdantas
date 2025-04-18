@@ -63,7 +63,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `Java Spring Boot`, `PHP`, `React`, `NextJS`, `HTML`, `CSS`, `Javascript`, `Figma`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Mossoro" src="https://prefeiturademossoro.com.br/build/assets/pmm-logo.a33eeaec.png"/>](https://www.prefeiturademossoro.com.br/)
+[<img align="left" width="94px" alt="Mossoro" src="https://prefeiturademossoro.com.br/build/assets/pmm-logo.a33eeaec.png"/>](https://www.prefeiturademossoro.com.br/)
 
 **Programador Júnior** \
 [**Prefeitura Municipal de Mossoó**](https://www.prefeiturademossoro.com.br/) • Full-time \
