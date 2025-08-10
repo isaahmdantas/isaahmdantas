@@ -25,6 +25,9 @@
 [<img src="https://skillicons.dev/icons?i=postgres" height="48"/>](https://www.postgresql.org)
 [<img src="https://skillicons.dev/icons?i=mysql" height="48"/>](https://dev.mysql.com/doc/)
 [<img src="https://skillicons.dev/icons?i=mongo" height="48"/>](https://www.mongodb.com/pt-br)
+[<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="48"/>](https://www.microsoft.com/sql-server)
+[<img src="https://img.icons8.com/color/48/000000/ibm.png" height="48"/>](https://www.ibm.com/db2)
+[<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" height="48"/>](https://www.oracle.com/database/)
 
 #### **Ferramentas e DevOps**
 [<img src="https://skillicons.dev/icons?i=docker" height="48"/>](https://www.docker.com/)
