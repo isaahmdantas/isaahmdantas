@@ -1,70 +1,70 @@
-## 👋 Olá, devs!
+# 👋 Olá, eu sou a Isadora Dantas
 
-<h3>Sou a Isadora Dantas — Analista de Sistemas & Desenvolvedora Full Stack</h3>
+### Analista de Sistemas Sênior | Full Stack Engineer  
+Especialista em Sistemas Escaláveis, APIs e Integrações Corporativas
 
-💻 Especialista em **Ruby on Rails** e **Next.js**, e atualmente estudando **Python** para ampliar minha stack.  
-📍 Natal/RN — Brasil  
-🏖️ Tecnologia e praia são meu combustível.  
+📍 Brasil  
+🌎 Aberta a oportunidades internacionais  
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Sobre mim
 
-#### **Linguagens e Frameworks**
-[<img src="https://skillicons.dev/icons?i=python" height="48"/>](https://www.python.org/)
-[<img src="https://skillicons.dev/icons?i=rails" height="48"/>](https://edgeguides.rubyonrails.org/)
-[<img src="https://skillicons.dev/icons?i=spring" height="48"/>](https://spring.io/projects/spring-boot)
-[<img src="https://skillicons.dev/icons?i=next" height="48"/>](https://nextjs.org/)
-[<img src="https://skillicons.dev/icons?i=react" height="48"/>](https://react.dev)
-[<img src="https://skillicons.dev/icons?i=javascript" height="48"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img src="https://skillicons.dev/icons?i=html" height="48"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[<img src="https://skillicons.dev/icons?i=css" height="48"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[<img src="https://skillicons.dev/icons?i=nodejs" height="48"/>](https://nodejs.org)
+Sou Analista de Sistemas e Desenvolvedora Full Stack com mais de 10 anos de experiência projetando, desenvolvendo e evoluindo sistemas corporativos de alta criticidade.
 
-#### **Banco de Dados**
-[<img src="https://skillicons.dev/icons?i=postgres" height="48"/>](https://www.postgresql.org)
-[<img src="https://skillicons.dev/icons?i=mysql" height="48"/>](https://dev.mysql.com/doc/)
-[<img src="https://skillicons.dev/icons?i=mongo" height="48"/>](https://www.mongodb.com/pt-br)
-[<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="48"/>](https://www.microsoft.com/sql-server)
-[<img src="https://img.icons8.com/color/48/000000/ibm.png" height="48"/>](https://www.ibm.com/db2)
-[<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" height="48"/>](https://www.oracle.com/database/)
+Tenho forte atuação em:
 
-#### **Ferramentas e DevOps**
-[<img src="https://skillicons.dev/icons?i=docker" height="48"/>](https://www.docker.com/)
-[<img src="https://skillicons.dev/icons?i=heroku" height="48"/>](https://www.heroku.com/)
-[<img src="https://skillicons.dev/icons?i=figma" height="48"/>](https://www.figma.com)
-[<img src="https://skillicons.dev/icons?i=vscode" height="48"/>](https://code.visualstudio.com)
-[<img src="https://skillicons.dev/icons?i=idea" height="48"/>](https://www.jetbrains.com/idea/)
-[<img src="https://skillicons.dev/icons?i=github" height="48"/>](https://github.com/)
+- Arquitetura e modernização de sistemas legados
+- Desenvolvimento de APIs de alto desempenho
+- Integrações entre plataformas e serviços externos
+- Automação de processos corporativos
+- Construção de aplicações backend escaláveis
+
+Minha principal especialidade é **Ruby on Rails**, com experiência prática também em **Python, Java (Spring Boot), React e Next.js**, atuando de forma completa no ciclo de desenvolvimento de software.
+
+Atualmente estou desenvolvendo projetos próprios e portfólio focados em soluções SaaS, automações e sistemas web escaláveis.
+
+---
+
+## 🧠 Stack Principal
+
+### Backend
+Ruby on Rails • Python • Java (Spring Boot) • PHP
+
+### Frontend
+React • Next.js • JavaScript • HTML • CSS
+
+### Bancos de Dados
+PostgreSQL • MySQL • SQL Server • Oracle • DB2
+
+### DevOps & Ferramentas
+Docker • Git • CI/CD • Linux • Figma
 
 ---
 
 ## 💼 Experiência Profissional
 
-**Analista de Sistemas** \
-[**SESC RN**](https://sescrn.com.br) • Full-time  
-`Java Spring Boot` `PHP` `React` `Next.js` `HTML` `CSS` `JavaScript` `Figma`
+**Analista de Sistemas Sênior — SESC RN**  
+Desenvolvimento de sistemas corporativos, modernização de aplicações legadas e integrações entre múltiplas bases de dados.
 
-**Programador Júnior** \
-[**Prefeitura Municipal de Mossoró**](https://www.prefeiturademossoro.com.br/) • Full-time  
-`Ruby on Rails` `HTML` `CSS` `JavaScript`
+**Desenvolvedora de Sistemas — Prefeitura de Mossoró**  
+Criação e evolução de sistemas internos e otimização de processos administrativos.
 
-**Analista de Sistemas** \
-[**Dunnas Tecnologia**](https://dunnastecnologia.com.br/) • Full-time  
-`Ruby on Rails` `HTML` `CSS` `JavaScript`
+**Analista de Sistemas — Dunnas Tecnologia**  
+Desenvolvimento de sistemas corporativos em Ruby on Rails e melhorias de performance.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 Foco Profissional
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaahmdantas&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaahmdantas&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaahmdantas&theme=radical) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaahmdantas&theme=radical) | ![](https://github-readme-streak-stats.herokuapp.com?user=isaahmdantas&theme=radical&hide_border=true) |
-| :-: | :-: |
+✔ Arquitetura de sistemas  
+✔ Escalabilidade e performance  
+✔ Código limpo e manutenível  
+✔ Soluções com impacto real no negócio  
 
 ---
 
-## 🌐 Vamos nos conectar?
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/isadoramdantas/)
-[<img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/>](mailto:isadoramariadasilvadantas@gmail.com)
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/isadoramdantas  
+Email: isadoramariadasilvadantas@gmail.com
